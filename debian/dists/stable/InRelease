@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: bl3ssedc0de
+Label: bl3ssedc0de
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Repositorio APT en GitHub Pages
+Date: Tue, 04 Mar 2025 00:31:38 +0000
+MD5Sum:
+ 1d711dd711a56a3ffe980e01a4fc7351               38 Release
+ 66cb68cf9cef752791cbfae20621d19a              419 main/binary-amd64/Packages.gz
+SHA1:
+ e68de71d3f9b6261cb6173fd2acc2b1185d4393c               38 Release
+ 6e206514e26e3a8b9a5b24be27ec5f6b8f0cee88              419 main/binary-amd64/Packages.gz
+SHA256:
+ 6d6998965cbe6dfbd84d186c65054b3e0b7a669f223cfdb96ddbe616c9dde31b               38 Release
+ 611ac992ba2fa82654359b966a821da2ce84fff285fb2e2153b37cdab84f29da              419 main/binary-amd64/Packages.gz
+SHA512:
+ c1493f0e627c12a4c8b953b3e28eff8e256fce9fb28cfca36219f1a09e6d61c323e755201b5d44419a0b1b401fa370e47dbb00fe22ec326148d9a1c9a022a1cc               38 Release
+ 70b66abb1c2031107e24a3c3fcd46b2373a6ce7a51e4d6489ce7b978edf766d393cead30124af1d4a9956d34bd1437eaf8b4df00b47ad98ea3c98a9479411ec3              419 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEFGjsUXUV4m6xqZq1ZJPwEbO1VlkFAmfGTSkACgkQZJPwEbO1
+VlkoSRAArvf2eZbmrBwomckbjDnqxFvYmS3Qo11g9qTv5yLDL2PdHI3e4vCgrR/9
+1OBCA6kiXwE8ZXJMFPW6ekADMgewWvgPs8N4h8fErk1Go848iNT9qGG6LXMQo1Ge
+XsQQkyd1IqRHoMyK17w4yjtgtf2Kc3geB/YQkr0pleLauk8MEkZa8PBzoCUI+qVK
+bFyf02+tHnFSRgo7x1mWTrNCsC0RTiqiboBXfwMcryqhx3H0onXMaVJ0XJiwFP17
+0g/MqJabCRGy9sRQVOzDfXOk3Xbl2FLKEcKosjxpct/kytZRTxcZUo51DodIrgD6
+Ibye8ktc/SxrueOTpotn9XyqGEhYyP/wri8JYR+ZqsAE3YZtWEktHqcNrYr6brUd
+1OSY/y/nD16B8WG8N9C3kkju5HuVBsXEZcg//WL5H9aSNU9RpdZhABrHtqhH112q
+9OaZWTBEx3w9tZIIBv5qBSkOhbAvW0JtF0886JLaFMpPm2ZD1QflGY41cURwA34Y
+GgxanSuvJhvwEJQfQ/5VZV13O+nMjuY6Q0pxSz0bwJVIpJfMvEoWsyuCgudiUeQl
+X0ONY8x/8IeXDViKWWHqoBHiNk0mw2zl7H4KdA3CgW9JLaYxhizzOUCF5qqButeO
+xqPDo+NUaDNFGd8A2nObDJWlzOWZ8+ows6IF33S5fzsW8EeNm4c=
+=9tHw
+-----END PGP SIGNATURE-----

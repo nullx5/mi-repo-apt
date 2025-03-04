@@ -1,0 +1,21 @@
+Origin: bl3ssedc0de
+Label: bl3ssedc0de
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Repositorio APT en GitHub Pages
+Date: Tue, 04 Mar 2025 00:31:38 +0000
+MD5Sum:
+ 1d711dd711a56a3ffe980e01a4fc7351               38 Release
+ 66cb68cf9cef752791cbfae20621d19a              419 main/binary-amd64/Packages.gz
+SHA1:
+ e68de71d3f9b6261cb6173fd2acc2b1185d4393c               38 Release
+ 6e206514e26e3a8b9a5b24be27ec5f6b8f0cee88              419 main/binary-amd64/Packages.gz
+SHA256:
+ 6d6998965cbe6dfbd84d186c65054b3e0b7a669f223cfdb96ddbe616c9dde31b               38 Release
+ 611ac992ba2fa82654359b966a821da2ce84fff285fb2e2153b37cdab84f29da              419 main/binary-amd64/Packages.gz
+SHA512:
+ c1493f0e627c12a4c8b953b3e28eff8e256fce9fb28cfca36219f1a09e6d61c323e755201b5d44419a0b1b401fa370e47dbb00fe22ec326148d9a1c9a022a1cc               38 Release
+ 70b66abb1c2031107e24a3c3fcd46b2373a6ce7a51e4d6489ce7b978edf766d393cead30124af1d4a9956d34bd1437eaf8b4df00b47ad98ea3c98a9479411ec3              419 main/binary-amd64/Packages.gz
