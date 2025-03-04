@@ -1,21 +1,13 @@
-Origin: bl3ssedc0de
-Label: bl3ssedc0de
-Suite: stable
-Version: 1.0
-Codename: stable
-Architectures: amd64
-Components: main
-Description: Repositorio APT en GitHub Pages
-Date: Tue, 04 Mar 2025 00:31:38 +0000
+Date: Tue, 04 Mar 2025 03:01:27 +0000
 MD5Sum:
- 1d711dd711a56a3ffe980e01a4fc7351               38 Release
- 66cb68cf9cef752791cbfae20621d19a              419 main/binary-amd64/Packages.gz
+ 22440084b37db033ae3823529c292cd5               38 Release
+ d646757bd3f07859a263d40822cd233e              424 main/binary-amd64/Packages.gz
 SHA1:
- e68de71d3f9b6261cb6173fd2acc2b1185d4393c               38 Release
- 6e206514e26e3a8b9a5b24be27ec5f6b8f0cee88              419 main/binary-amd64/Packages.gz
+ 6d83d6579d126252af48471e7e902776ad875ed4               38 Release
+ e824ab2e8fb8695f46989638a636d887eb9ab8b9              424 main/binary-amd64/Packages.gz
 SHA256:
- 6d6998965cbe6dfbd84d186c65054b3e0b7a669f223cfdb96ddbe616c9dde31b               38 Release
- 611ac992ba2fa82654359b966a821da2ce84fff285fb2e2153b37cdab84f29da              419 main/binary-amd64/Packages.gz
+ df7d258e815e4a0916f5eaa70e773726ff09a08d8ede07bda568424e8f18d646               38 Release
+ 9a6cee4f0f700b5189fc8490b6bd60f52889d881fb4c3ac9da64e38ebf1bbde1              424 main/binary-amd64/Packages.gz
 SHA512:
- c1493f0e627c12a4c8b953b3e28eff8e256fce9fb28cfca36219f1a09e6d61c323e755201b5d44419a0b1b401fa370e47dbb00fe22ec326148d9a1c9a022a1cc               38 Release
- 70b66abb1c2031107e24a3c3fcd46b2373a6ce7a51e4d6489ce7b978edf766d393cead30124af1d4a9956d34bd1437eaf8b4df00b47ad98ea3c98a9479411ec3              419 main/binary-amd64/Packages.gz
+ f7576a55fd9af71ad268b4c2d4d3d76defa17e37a1bc7fc6e16cbc7942981b54b7a3599889b0f2d0a50646b7dde64df354fdfef6baff77a559cb8abcc20f53cc               38 Release
+ 065db6694e8b851156ece94525fef430ee5bbbfec7ddb99100bb3e6e76169f685ce0aa96ba09c505392d4b6ce5fe0c921bbff04ed963a9b31e5a3f8d90a0dc37              424 main/binary-amd64/Packages.gz
